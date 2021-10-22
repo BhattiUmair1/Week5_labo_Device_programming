@@ -1,0 +1,17 @@
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\bin\Debug\netstandard2.0\Oefening1.deps.json
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\bin\Debug\netstandard2.0\Oefening1.dll
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\bin\Debug\netstandard2.0\ref\Oefening1.dll
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\bin\Debug\netstandard2.0\Oefening1.pdb
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Oefening1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Oefening1.AssemblyInfoInputs.cache
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Oefening1.AssemblyInfo.cs
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Oefening1.csproj.CoreCompileInputs.cache
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Oefening1.dll
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\ref\Oefening1.dll
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Oefening1.pdb
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Views\Cards.xaml.g.cs
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Views\TrelloCardsPage.xaml.g.cs
+C:\MCT semester 3\Device_Programing_Labo\week5\Oefening1\Oefening1\obj\Debug\netstandard2.0\Oefening1.csproj.AssemblyReference.cache
